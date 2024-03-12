@@ -7,9 +7,9 @@ This is source code for a paper
 
 Thanks
 ---
-+ The Matlab test framework is copying from "Pose Estimation from Line Correspondences using Direct Linear Transformation" https://www.fit.vutbr.cz/~ipribyl/DLT-based-PnL/
++ The Matlab test framework is copying from "Pose Estimation from Line Correspondences using Direct Linear Transformation" by **Dr. Bronislav Přibyl**, see https://www.fit.vutbr.cz/~ipribyl/DLT-based-PnL/
 
-+ *The plot function aboxplot.m (Advanced Box Plot for Matlab) by Dr. Alex Bikfalvi (alex(at)bikfalvi.com),see https://alex.bikfalvi.com/*
++ *The plot function aboxplot.m (Advanced Box Plot for Matlab)* by **Dr. Alex Bikfalvi** (alex@bikfalvi.com),see https://alex.bikfalvi.com/
 
 ---
 
