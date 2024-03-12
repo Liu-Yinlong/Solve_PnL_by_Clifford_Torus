@@ -13,6 +13,7 @@ This is source code for a paper
 
 Clifford Torus in $R^3$ by stereographic projection
 --- 
+![](./sphere-ball.png)
 ![cliffod](./orbit-big.gif)
 
 
