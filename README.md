@@ -3,7 +3,11 @@
 ## 
 This is source code for a paper 
 
+Images
 ---
+![rot](./rot.png)
+![rot](./trans.png)
+![rot](./tim.png)
 
 Thanks
 ---
