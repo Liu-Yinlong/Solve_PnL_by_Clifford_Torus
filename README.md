@@ -8,7 +8,15 @@ This is source code for a paper
   + **main_test_outliers.m** You can start it in matlab 2023a to see the *Images* 
 + **Rot_Est_Liu.py** is to calculate the camera rotation of the PnL problem
 + **test_all.py** and **plot_all.py** is to check the power of the Clifford torus using python
-+ 
+
+
+Clifford Torus
+---
+<div align=center>
+  
+![cliffod](./orbit-big.gif)
+
+</div>
 
 Images
 ---
