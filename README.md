@@ -13,4 +13,4 @@ Thanks
 
 ---
 
-copyright @ YinlongLiu(AT)um.edu.mo
+Copyright @ YinlongLiu(AT)um.edu.mo
