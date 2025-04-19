@@ -1,5 +1,6 @@
 # Solve_PnL_by_Clifford_Torus
-This is the Code for the paper 《Robustly Solving PnL Problem Using Clifford Tori》
+
+## This is the source code for a paper 
 
 ```
 @article{LIU2025111659,
@@ -18,9 +19,7 @@ keywords = {Robust pose estimation, Perspective-n-Line (PnL) problem, Rotation v
 
 [https://doi.org/10.1016/j.patcog.2025.111659](https://doi.org/10.1016/j.patcog.2025.111659)
 
-## 
 
-This is the source code for a paper 
 ---
 + **show_torus_two.py** is to show the Clifford torus in $R^3$ using [pyvista](https://github.com/pyvista/pyvista) (VTK)
 + **Clifford_PnL.7z** is to test various PnL algorithms
