@@ -1,5 +1,22 @@
 # Solve_PnL_by_Clifford_Torus
-Robustly Solving PnL Problem Using Clifford Tori
+This is the Code for the paper 《Robustly Solving PnL Problem Using Clifford Tori》
+
+```
+@article{LIU2025111659,
+title = {Robustly solving PnL problem using Clifford tori},
+journal = {Pattern Recognition},
+volume = {166},
+pages = {111659},
+year = {2025},
+issn = {0031-3203},
+doi = {https://doi.org/10.1016/j.patcog.2025.111659},
+url = {https://www.sciencedirect.com/science/article/pii/S003132032500319X},
+author = {Yinlong Liu and Xueli Liu and Shengyong Ding and Zhi-Xin Yang},
+keywords = {Robust pose estimation, Perspective-n-Line (PnL) problem, Rotation voting}
+}
+```
+
+[https://doi.org/10.1016/j.patcog.2025.111659](https://doi.org/10.1016/j.patcog.2025.111659)
 
 ## 
 
